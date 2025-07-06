@@ -1,2 +1,2 @@
 # DSA-Documentation
-DSA Data Analysis Project: Case Study 1
+This is where I started my Portfolio building while taking Data Analysis class with Incubator Hub
